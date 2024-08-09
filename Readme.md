@@ -52,7 +52,7 @@
 
 ## Interface Overview
 
-- **Title Bar**: Displays the application name "दिशाप्रदर्शन" with custom minimize and close buttons.
+- **Title Bar**: Displays the application name "Dishapradarsan" with custom minimize and close buttons.
 - **Path Input**: Allows you to input or browse for the directory whose structure you want to visualize.
 - **Ignore Directories**: Input or browse for subdirectories you wish to exclude from the structure.
 - **Output Area**: A scrollable text area where the directory structure is displayed.
@@ -60,7 +60,7 @@
 
 ## Screenshots
 
-![Interface Screenshot](screenshots/interface.png)
+![Interface Screenshot](screenshot.jpg)
 
 ## License
 
@@ -78,4 +78,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ---
 
-Replace `<repository-url>` and `<repository-name>` with your actual repository URL and name. You can also update the screenshot section with actual images from your application.
+Replace `https://github.com/SuthrasPraramba/Dishapradarsan` and `Dishapradarsan` with your actual repository URL and name. You can also update the screenshot section with actual images from your application.
