@@ -78,4 +78,3 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ---
 
-Replace `https://github.com/SuthrasPraramba/Dishapradarsan` and `Dishapradarsan` with your actual repository URL and name. You can also update the screenshot section with actual images from your application.
